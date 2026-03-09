@@ -1,0 +1,21 @@
+Mi Reproductor Multimedia para Windows 11: Teclas del Teclado Asignadas
+
+(Todos los Modos: Audio, Video, Imagen)
+⏯️ - Tecla de Reproducción del Teclado (XF86AudioPlay)
+⏭️ - Tecla Siguiente del Teclado (XF86AudioNext)
+⏮️ - Tecla Anterior del Teclado (XF86AudioPrev)
+🔊 - Tecla de Subir Volumen del Teclado (XF86AudioRaiseVolume)
+🔉 - Tecla de Bajar Volumen del Teclado (XF86AudioLowerVolume)
+🔇 - m, M, Tecla de Silencio de Alternar Teclado (XF86AudioMute)
+⏸️ - p, P, Alternar la Tecla de Pausa
+🔁 - r, R, Alternar Clave de Repetición
+⏹️ - q, Q, Esc, Detener
+    - e, E, Salir de la Aplicación
+
+(Solo Modos de Audio/Video)
+- f, F, Alternar Pantalla Completa
+← Flecha Izquierda - Retroceder 10 Segundos
+→ Flecha Derecha - Avanzar 10 Segundos
+↓ Flecha Hacia Abajo - Retroceder 60 Segundos
+↑ Flecha Arriba - Avanzar 60 Segundos
+
