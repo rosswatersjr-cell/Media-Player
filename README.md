@@ -12,7 +12,7 @@ It Is Not Necessary To Use These Folder But Is A Good Way To Keep Things Seperat
 Also Existing Is A Keyboard Interface. View The Bound Keys.txt File For Details.
 
 Notes Before Running Script:
-Make Sure That You Have The Latest Version Of WinGet. Version 1.28.190 Or Later Is Required.
+Make Sure That You Have The Latest Version Of Appinstaller And WinGet. Version 1.28.190 Or Later Is Required.
 Get The Latest Version Here: https://github.com/microsoft/winget-cli/releases 
 Go To Bottom Of Page And Under Assets, Download And Install Microsoft.DesktopAppinstaller_8wekyb3d8bbwe.msix. 
 After Installation, Check Installation By Open Powershell Or Terminal And Typing command winget --version. You Should See v1.28.190 Or Later. 
