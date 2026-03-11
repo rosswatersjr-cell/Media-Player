@@ -14,8 +14,8 @@ Also Existing Is A Keyboard Interface. View The Bound Keys.txt File For Details.
 Notes Before Running Script:
 Make Sure That You Have The Latest Version Of WinGet. Version 1.28.190 Or Later Is Required.
 Get The Latest Version Here: https://github.com/microsoft/winget-cli/releases 
-Go To Bottom Of Page And Under Assets, Download And Install Microsoft.DesktopAppinstaller_8wekyb3d8bbwe.msix
-After Installation, Check Installation By Open Posershell Or Terminal And Typing winget --version.
+Go To Bottom Of Page And Under Assets, Download And Install Microsoft.DesktopAppinstaller_8wekyb3d8bbwe.msix. 
+After Installation, Check Installation By Open Posershell Or Terminal And Typing winget --version. You Should Seev1.28.190 Or Later. 
 If You Have Python Installed, Go To Your Python Path Scripts Folder And Delete ffmpeg.exe, 
 ffplay.exe And ffprobe.exe If They Exist. These Files Are An Older Version And Interfere
 With The New Version Installed By WinGet. Your Python Path Should Look Like
