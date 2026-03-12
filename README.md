@@ -27,4 +27,4 @@ ffplay.exe And ffprobe.exe If They Exist. These Files Are An Older Version And I
 With The New Version Installed By WinGet. Your Python Path Should Look Like
 C:\Users\UserName\AppData\Local\Programs\Python\Python314\Scripts, After This, Delete The Setup.json File
 That Was Created In Your Script Folder And Run The Script Again. FFmpeg And SoundVolumeView Should Install 
-This Time.
+This Time Since Microsoft Appinstaller And WinGet Have Been Updated.
