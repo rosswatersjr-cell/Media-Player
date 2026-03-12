@@ -16,6 +16,6 @@ Make Sure You Have An Internet Connection Before Running The Script The First Ti
 Install And Update Necessary Files. After This, No Internet Is Required Except When Using The 
 Built-In YouTube Downloader. If You Have Python Installed, Go To Your Python  
 If You Have Python Installed, Go To Your Python Path Scripts Folder And Delete ffmpeg.exe,   
-ffplay.exe And ffprobe.exe If They Exist. 
-These Files Are An Older Version And Interfere With The New Version Installed By WinGet.
-Your Python Path Should Look Like "C:\Users\UserName\AppData\Local\Programs\Python\Python314\Scripts".
+ffplay.exe And ffprobe.exe If They Exist. These Files Are An Older Version And Interfere With  
+The New Version Installed By WinGet. Your Python Path Should Look Like
+"C:\Users\UserName\AppData\Local\Programs\Python\Python314\Scripts".
