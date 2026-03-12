@@ -1,7 +1,7 @@
 # Media-Player For Windows 11
 Created Using Python 3.14.2. 
 Media Player Program For Playing Audio, Video And Image Files For Windows 11.
-There Are 2 Versions Of The Script (English And Spanish "sp").
+There Are 2 Versions Of The Script (English"en" And Spanish "sp").
 Make Sure To Select The Correct Text Files For Your Chosen Script.
 This Program Uses Gyan FFmpeg For All Video And Audio Files And opencv-python For Image Files.
 This Program Also Uses NirSoft SoundVolumeView For Audio Output Device Selection.
