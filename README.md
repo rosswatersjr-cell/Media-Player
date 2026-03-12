@@ -12,10 +12,9 @@ It Is Not Necessary To Use These Folder But Is A Good Way To Keep Things Seperat
 Also Existing Is A Keyboard Interface. View The Bound Keys.txt File For Details.
 
 # Notes Before Running Script:
-Make Sure You Have An Internet Connection Before Running The Script The First Time. This Is To 
-Install And Update Necessary Files. After This, No Internet Is Required Except When Using The 
-Built-In YouTube Downloader. If You Have Python Installed, Go To Your Python  
-If You Have Python Installed, Go To Your Python Path Scripts Folder And Delete ffmpeg.exe,   
-ffplay.exe And ffprobe.exe If They Exist. These Files Are An Older Version And Interfere With  
-The New Version Installed By WinGet. Your Python Path Should Look Like
-"C:\Users\UserName\AppData\Local\Programs\Python\Python314\Scripts".
+Make Sure You Have An Internet Connection Before Running The Script The First Time. This Is To  
+Install And Update Necessary Files. After This, No Internet Is Required Except When Using The  
+Built-In YouTube Downloader. If You Have Python Installed, Go To Your Python Path Scripts   
+Folder And Delete ffmpeg.exe, ffplay.exe And ffprobe.exe If They Exist. These Files Are Of    
+An Older Version And Interfere With The New Version Installed By WinGet. Your Python Path   
+Should Look Like "C:\Users\UserName\AppData\Local\Programs\Python\Python314\Scripts".
