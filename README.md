@@ -10,6 +10,11 @@ The Script Also Has A YouTube Downloader Built In. View The youtube_downloader_r
 All Libraries In The Media Library Menu Have Their Own Associated Folder In The User Account.
 It Is Not Necessary To Use These Folder But Is A Good Way To Keep Things Seperated.
 Also Existing Is A Keyboard Interface. View The Bound Keys.txt File For Details.
+This Script Requires Microsoft.AppInstaller >= 1.28.190.0,  Gyan.FFmpeg >= 8.0.1,
+And NirSoft.SoundVolumeView >= 2.50 Which Is Automatically Installed. Once Your Script Or
+Executable Is Setup And Running Ok, If Any Of These 3 Programs Are Updated To A Later Version,
+Delete The Setup.json File Associated With The Script So The New Paths Can Be Recorded In A 
+New Setup.json File.
 
 # Notes Before Running Script:
 Make Sure You Have An Internet Connection Before Running The Script The First Time. This Is To  
