@@ -13,7 +13,7 @@ Also Existing Is A Keyboard Interface. View The Bound Keys.txt File For Details.
 This Script Requires Microsoft.AppInstaller >= 1.28.190.0,  Gyan.FFmpeg >= 8.0.1,
 And NirSoft.SoundVolumeView >= 2.50 Which Is Automatically Installed. Once Your Script Or
 Executable Is Setup And Running Ok, If Any Of These 3 Programs Are Updated To A Later Version,
-Delete The Config.json File Associated With The Script So The New Paths Can Be Recorded In A 
+select "Set To Default State" In The File Menu So The New Versions Can Be Recorded In A 
 New Config.json File.
 
 # Notes Before Running Script:
