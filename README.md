@@ -15,3 +15,4 @@ FFPlay.exe And FFProbe.exe Can Be Downloaded By Downloading FFMPEG Which Include
 FFPlay And FFProbe. Download Here! https://www.ffmpeg.org/download.html
 SoundVolumeView.exe Is Obtained By Installing SoundVolumeView And Copying The Executable.
 SoundVolumeView Can Be Downloaded Here! https://www.nirsoft.net/utils/sound_volume_view.html
+View The Media_Player.png File For Visualization.
