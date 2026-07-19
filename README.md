@@ -1,9 +1,9 @@
 # Media-Player For Windows 11
-Created Using Python 3.14.3. 
+Created Using Python 3.14.6. 
 Media Player Program For Playing Audio, Video And Image Files For Windows 11.
 There Are 2 Versions Of The Script (English"en" And Spanish "sp").
 Make Sure To Select The Correct Text Files For Your Chosen Script.
 This Program Uses FFMpeg, FFPlay, And FFProbe For All Video And Audio Files And 
 opencv-python For Image Files. Also Used Is NirSoft SoundVolumeView For Audio 
 Output Device Selection And Deno For Youtube Downloads. Place SoundVolumeView.exe, Into The soundvolumeview/bin Folder. Place deno.exe Into The deno/bin Folder. Place ffmpeg.exe, ffplay.exe, and ffprobe.exe Into The ffmpeg/bin Folder. Place All 3 Main Folders Into The Script Folder And _internal Folder When Creating An Executable Using auto-py-to-exe. The Script Also Has A YouTube Downloader Built In. View The youtube_downloader_readme For Details. All Libraries In The Media Library Menu Have Their Own Associated Folder In The User Account. It Is Not Necessary To Use These Folder But Is A Good Way To Keep Things Seperated. Also Existing Is A Keyboard Interface. View The Bound Keys.txt File For Details. Download The FFMPEG Files Here! https://www.ffmpeg.org/download.html. SoundVolumeView.exe Is Obtained By Installing SoundVolumeView And Copying The Executable. Once Copied, You Can Uninstall SoundVolumeView. SoundVolumeView Can Be Downloaded Here! https://www.nirsoft.net/utils/sound_volume_view.html. The Deno Executable Can Be Downloaded Here! https://deno.com.
-View The MediaPlayer.jpg File For Visualization.
+View The MediaPlayer.jpg File For Visualization. All Menus Are Popup Types And Are Executed By Right Clicking The Media List. Depending On What Media Is Active And Playing Or Not Playing What Menu Appears. For Instance, If Pictures Is The Selected Media And The Slide Show Delay Is Set To Zero, An Edit Menu Will Appear. 
