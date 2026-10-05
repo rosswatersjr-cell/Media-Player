@@ -1,14 +1,14 @@
 # Media-Player For Windows 11
-Created Using Python 3.14.7. 
+Created Using Python 3.14.7.
+Custom Tkinter Graphics.
 Media Player Program For Playing Audio, Video And Image Files For Windows 11.
 There Are 2 Versions Of The Script (English"en" And Spanish "sp").
 Make Sure To Select The Correct Bound_Keys File For Your Chosen Script.
-This Program Uses FFMpeg, FFPlay, And FFProbe For All Video And Audio Files And 
+This Program Uses FFPlay, And FFProbe For All Video And Audio Files And 
 opencv-python For Image Files. Also Used Is NirSoft SoundVolumeView For Audio 
-Output Device Selection And Deno For Youtube Downloads. Place SoundVolumeView.exe, 
-Into A soundvolumeview/bin Folder. Place deno.exe Into A deno/bin Folder. 
-Place ffmpeg.exe, ffplay.exe, and ffprobe.exe Into A ffmpeg/bin Folder. 
-Place All 3 Main Folders Into The Script Folder And _internal Folder When 
+Output Device Selection. Place SoundVolumeView.exe Into A soundvolumeview/bin 
+Folder. Place ffplay.exe and ffprobe.exe Into A ffmpeg/bin Folder. 
+Place Both Main Folders Into The Script Folder And _internal Folder When 
 Creating An Executable Using auto-py-to-exe. All Libraries In The Media Library 
 Menu Have Their Own Associated Folder In The User Account. It Is Not Necessary To 
 Use These Folder But Is A Good Way To Keep Things Seperated. Also Existing Is A Keyboard 
